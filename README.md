@@ -1,2 +1,4 @@
-pcfg_parser
-===========
+Parser for probabalistic context-free grammars.
+===============================================
+
+
